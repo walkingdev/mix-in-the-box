@@ -11,7 +11,7 @@ image_url: https://github.com/walkingdev/darktable/blob/master/media/banner-dark
 
 ### On va faire quoi ?
 
-En explorant des lieux insolites dans Montpellier, on va découvrir/apprendre/pratiquer la Communication NonViolente. Pour ça on va co-créer le contenu de la journée ensemble le matin, puis se ballader de lieux en lieux.  Dans chaque nouveau lieu on fera un nouvel atelier.  
+En explorant des lieux insolites dans Montpellier, on va découvrir/apprendre/pratiquer la  Pour ça on va co-créer le contenu de la journée ensemble le matin, puis se ballader de lieux en lieux.  Dans chaque nouveau lieu on fera un nouvel atelier.  
 On profite des trajets pour débriefer sur ce qu'on vient de faire (ou pas).
 
 ### C'est quand et où ?
