@@ -17,7 +17,7 @@ L'idée c'est de se balader, de découvrir des endroits cool à Montpellier où 
 
 ### C'est pour qui ?
 
-*DAW, Converters, Bit Depth, Sample Rate, Preamps, Compressor, EQ, Plugin, Summing, Resolution... *
+DAW, Converters, Bit Depth, Sample Rate, Preamps, Compressor, EQ, Plugin, Summing, Resolution... 
 Ces termes, si tu les connais, t'aura des choses à dire. Si tu les connais pas, ce sera l'occasion de decouvrir. Personne n'est un spécialiste.
 
 ### On va parler de prise de son? d'enregistrement? 
@@ -80,6 +80,6 @@ On paye toutes les collations (cafés, thé, repas du midi, goûter...) de la jo
 
 Rien n'est décidé pour l'instant. Si tu manges sans gluten, que tu es végétalien ou avec des restrictions alimentaires, préviens nous.
 
-#### Et si j'ai une question ?
+### Et si j'ai une question ?
 
 Tu peux me contacter par mail à l'adresse suivante : dupont.romain09@gmail.com
