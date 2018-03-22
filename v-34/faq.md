@@ -1,89 +1,85 @@
----
+ ---
 title: Mix in the Box
-description: découvrir/apprendre/pratiquer la Communication NonViolente
+description: Fabriquer un disque, ça passe souvent par cette étape, où l'on mélange les sons. On épluche, on taille, on retourne, on imbrique, on agrandit, on rapetisse. On Dégrade parfois aussi, ou pas. Il est en tous cas question de travailler la matière, de mélanger, de fassoner.
+Tant de verbes, et autant de façons de s'y prendre.
+Mixer "in-the-box" c'est quoi? Si tu souhaite partager tes idées sur la question, viens te balader avec nous! Si tu n'en a aucune idée et que le sujet pique ta curiausité, viens te balader avec nous!
+On polis, on équilibre, on dtruit, on colore, on vernit...
 image_url: https://github.com/walkingdev/mix-in-the-box/blob/master/media/wave.jpg?raw=true
 ---
 
-# Viens tâter la CNV* (Communication NonViolente)
-*avec les Girafes de la Bande "CNV Poils Aux Pieds"
+# Mix-In-The-Box
 
 ## FAQ
 
 ### On va faire quoi ?
 
-En explorant des lieux insolites dans Montpellier, on va découvrir/apprendre/pratiquer la  Pour ça on va co-créer le contenu de la journée ensemble le matin, puis se ballader de lieux en lieux.  Dans chaque nouveau lieu on fera un nouvel atelier.  
-On profite des trajets pour débriefer sur ce qu'on vient de faire (ou pas).
-
-### C'est quand et où ?
-
-La marche commence **le mercredi 8 novembre 2017 à 9h** et se termine vers 18h30.  
-RDV à l'Extra Shot café (44 rue de l'Aiguillerie, 34000 Montpellier).
+L'idée c'est de se balader, de découvrir des endroits cool à Montpellier où on pourra se caller, discuter , échanger autour de l'idée de mélanger des sons, de fabriquer des disques. Les outils? Les "work flows"? Analogique? Numérique? Art(s)? Technique(s)? On pourra parler de musique, bien que le sujet soit ouvert à tout. Enfin y a quand même un titre. Sachant ça, si tu t'en fou, moi aussi.
 
 ### C'est pour qui ?
 
-Y'a pas de pré-requis, que tu aies déjà pratiqué ou que ce soit la première fois que tu en entendes parler, tu es le.a bienvenu.e si :
-- tu as envie de déconditionner tes oreilles et voir les sens cachés dans nos conversations
-- tu aspires à prendre plus soin de tes relations
-- tu as envie de pratiquer (la CNV c'est comme l'anglais si on le parle pas, on le perd :-))
-- tu es perplexe et/ou curieu.x.se
-- tu la pratiques depuis longtemps et aspires à partager quelques clés
-- tu n'comprends pas toujours ces émotions qui s'agitent à l'intérieur de toi
-- tu adorerais ne plus crier sur tes ami.e.s, tes enfants, ton chien...
-- Ou encore si tu as juste envie d'apprendre des trucs
+DAW, Converters, Bit Depth, Sample Rate, Preamps, Compressor, EQ, Plugin, Summing, Resolution...
+Ces termes, si tu les connais, t'aura des choses à dire. Si tu les connais pas, ce sera l'occasion de decouvrir. Personne n'est un spécialiste.
+
+### On va parler de prise de son? d'enregistrement?
+
+Si en parler s'avère pertinent, alors oui.
+
+### On va parler de mastering?
+
+Si en parler s'avère pertinent, alors oui!
+
+### Je suis un spécialiste, et rien que le titre "mix in the box" ça m'énerve.
+
+Tu es bien sûr le bien vennu. Tu pourras montrer les crocs si tu en ressens le besoin. Si l'envie de mordre te prend souvent, un petit coup de lime en prévision de cette journée serait cool. Ça fait moins mal. Si au fond tu souhaites partager tes connaissance, tu sera au bon endroit! L'idée c'est vraiment d'apprendre des choses.
+
+### C'est quand et où ?
+
+On sait pas encore.  
 
 ### Je me sens pas au niveau…
 
-T’inquiète pas, nous non plus ;)  
-Tout le monde est invité à prendre une posture d'apprenant (les organisatrices y compris), il n'y a pas d'experts mais des gens qui ont envie de découvrir et d'apprendre ensemble.
+Si tu es arrivé jusqu'ici, il n'y a aucune raison de penser ça. Au pire, on pourra toujours en discuter!
 
 ### C'est qui qui organise ?
 
-Aurélie et Julia. On a suivi les 3 modules d'introduction à la CNV d'Isabelle Desplat début 2017.
-On a tellement kiffé qu'on a co-créé un groupe de pratique auto-géré avec d'autres Girafes.
-Et comme on continue de kiffer, on s'est dit que ce serait chouette de tester d'autres façon de pratiquer.
-Et voilà.
+Pour l'instant c'est moi. Mais ça pourrait bien bouger. Je m'appelle Romain, J'ai 25 ans. J'ai rencontré stéphane comme ça, et il m'a parlé de ces walkingdev et j'ai accroché à l'idée.
+Mon activité profesionnelle, c'est un peu tout ce qui tourne autour de l'enregistrement et du mixage de projets musicaux. Je suis technicien du son et je travaille depuis quelques années dans un petit studio à Montpellier. Ce métier c'est ma passion, j'aime la partager.
 
-### Mais c'est pas une formation ?
+### Est-ce une journée formation ?
 
-Ben non. Enfin, ça dépend de toi. Il n'y aura pas de "*formateur certifié CNV*" venant dispenser la bonne parole mais des gens explorant le sujet avec toi. On essaye plus de créer un contexte pour apprendre des choses ensemble. On fait confiance, chacun à un truc à apporter et ce sera parfait comme ça.
+Si ça doit être le cas, ça le sera pour tout le monde.
+
+### J'ai besoin d'informations plus explicites. De quoi sera-il question plus précisément?
+
+Mixer "in-the-box" est une expression qui sous-entend un mixage audio qui serai réalisé entièrement ""à l'intérieur" d'un ordinateur, donc a priori avec des outils dématérialisés.  
+En ce qui me concerne, je travaille avec le logiciel Avid Pro Tools. Bien que les concepts suceptibles d'êtres abordés sont applicable à n'importe quel autre Logiciel.
 
 ### On sera combien ?
 
-Au moins 4, maximum 10, probablement autour de 7.
-
-### Il faut que je prévois des trucs ?
-
-Ramènes ta bonne humeur, de l’eau, des noisettes et de quoi t’habiller confortablement pour marcher. Tu peux aussi amener des trucs (jeux, cartes...) qui pourraient servir de support à la pratique/compréhension de la CNV si tu as des idées.
+Au moins 3, maximum 10, probablement autour de 7.
 
 ### On marche beaucoup ?
 
 Une dizaine de kilomètres dans la journée.
-
 On a calculé ça en se disant qu’on allait marcher 4 à 6 fois 20 minutes dans la journée.
-
 Si ça te semble beaucoup mais que tu as envie de faire partie de l'aventure, parle-nous en, on trouvera un truc.
 
 ### Je m'inscris où ?
 
-Par [ici](https://www.eventbrite.fr/e/billets-viens-tater-la-cnv-39412062540).
-Mais si tu préfères, tu peux aussi envoyer un mail à [Ju](mailto:julia.barbelane@gmail.com).
+Par [ici](https://www.).
 
-### Ça coûte combien cette petite escapade ?
+### Ça coûte combien ?
 
-50€.
+x€.
 
 ### Vous faites quoi des sous ?
 
-On paye toutes les collations (cafés, thé, repas du midi, goûter...) de la journée. Ce qui reste sera utilisé pour permettre à quelqu'un.e qui n'aurait pas les moyens, de participer quand même. Les organisatrices ne sont pas rémunérées (mais leur cafés sont offerts :-))
-
-### Et si c’est trop cher pour moi ?
-
-Ne te prive pas de cette super journée pour des problèmes matériels, contacte-nous, ensemble on va bien trouver une solution !
+On paye toutes les collations (cafés, thé, repas du midi, goûter...) de la journée.
 
 ### On mangera quoi ?
 
 Rien n'est décidé pour l'instant. Si tu manges sans gluten, que tu es végétalien ou avec des restrictions alimentaires, préviens nous.
 
-#### Et si j'ai une question ?
+### Et si j'ai une question ?
 
-Tu peux contacter [Julia](mailto:julia.barbelane@gmail.com). Elle se réjouit d'avance à te répondre !
+Tu peux me contacter par mail à l'adresse suivante : dupont.romain09@gmail.com
