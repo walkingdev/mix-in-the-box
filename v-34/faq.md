@@ -1,5 +1,5 @@
 ---
-title: CNV poils aux pieds
+title: Mix in the Box
 description: découvrir/apprendre/pratiquer la Communication NonViolente
 image_url: https://github.com/walkingdev/darktable/blob/master/media/banner-darktable.png?raw=true
 ---
@@ -27,9 +27,9 @@ Y'a pas de pré-requis, que tu aies déjà pratiqué ou que ce soit la première
 - tu as envie de pratiquer (la CNV c'est comme l'anglais si on le parle pas, on le perd :-))
 - tu es perplexe et/ou curieu.x.se
 - tu la pratiques depuis longtemps et aspires à partager quelques clés
-- tu n'comprends pas toujours ces émotions qui s'agitent à l'intérieur de toi 
-- tu adorerais ne plus crier sur tes ami.e.s, tes enfants, ton chien... 
-- Ou encore si tu as juste envie d'apprendre des trucs 
+- tu n'comprends pas toujours ces émotions qui s'agitent à l'intérieur de toi
+- tu adorerais ne plus crier sur tes ami.e.s, tes enfants, ton chien...
+- Ou encore si tu as juste envie d'apprendre des trucs
 
 ### Je me sens pas au niveau…
 
@@ -70,7 +70,7 @@ Mais si tu préfères, tu peux aussi envoyer un mail à [Ju](mailto:julia.barbel
 
 ### Ça coûte combien cette petite escapade ?
 
-50€. 
+50€.
 
 ### Vous faites quoi des sous ?
 
