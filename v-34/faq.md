@@ -1,7 +1,7 @@
 ---
 title: Mix in the Box
 description: découvrir/apprendre/pratiquer la Communication NonViolente
-image_url: https://github.com/walkingdev/mix-in-the-box/blob/master/media/wave.jpg
+image_url: https://github.com/walkingdev/mix-in-the-box/blob/master/media/wave.jpg?raw=true
 ---
 
 # Viens tâter la CNV* (Communication NonViolente)
