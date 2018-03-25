@@ -22,7 +22,7 @@ Ces termes, si tu les connais, t'aura des choses à dire. Si tu les connais pas,
 
 ### On va parler de prise de son? d'enregistrement?
 
-Si en parler s'avère pertinent, alors oui
+Si en parler s'avère pertinent, alors oui.
 
 ### On va parler de mastering?
 
