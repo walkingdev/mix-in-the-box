@@ -34,7 +34,9 @@ Tu es bien sûr le bien vennu. Tu pourras montrer les crocs si tu en ressens le 
 
 ### C'est quand et où ?
 
-On sait pas encore.  
+Le vendredi 18 mai à Montpellier.
+
+On démarrera à 9h au café Bun.
 
 ### Je me sens pas au niveau…
 
@@ -70,7 +72,7 @@ Par [ici](https://www.).
 
 ### Ça coûte combien ?
 
-x€.
+On part sur 50€ et on rembourse si les consommations et le repas reviennent moins chers.
 
 ### Vous faites quoi des sous ?
 
