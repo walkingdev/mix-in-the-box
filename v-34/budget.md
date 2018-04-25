@@ -1,5 +1,5 @@
 ---
-title: Budget de la session sur Darktable V-34
+title: Budget de la session Mix in the Box
 description: Liste des dépenses/recettes de la session
 ---
 
